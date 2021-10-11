@@ -1,9 +1,9 @@
 import discord
 TOKEN = "Put yout token"
 
-admin_id = 378570863152463875
-archive = 896132845842620507
-main_channel = #
+admin_id = # admin id
+archive = # id of archive
+main_channel = # id of main channel
 
 anketa = discord.Embed(title="Анкета", colour=0xf1c40f)
 anketa.add_field(name="1 вопрос:", value="Как тебя зовут?", inline=False)
